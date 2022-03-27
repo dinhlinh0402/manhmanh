@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/andect/static/css/main.56957cc2.chunk.css",
+    "main.js": "/andect/static/js/main.c86d0b27.chunk.js",
+    "main.js.map": "/andect/static/js/main.c86d0b27.chunk.js.map",
+    "runtime-main.js": "/andect/static/js/runtime-main.cebcadf4.js",
+    "runtime-main.js.map": "/andect/static/js/runtime-main.cebcadf4.js.map",
+    "static/js/2.7bfde234.chunk.js": "/andect/static/js/2.7bfde234.chunk.js",
+    "static/js/2.7bfde234.chunk.js.map": "/andect/static/js/2.7bfde234.chunk.js.map",
+    "static/js/3.4a2e8202.chunk.js": "/andect/static/js/3.4a2e8202.chunk.js",
+    "static/js/3.4a2e8202.chunk.js.map": "/andect/static/js/3.4a2e8202.chunk.js.map",
+    "index.html": "/andect/index.html",
+    "static/css/main.56957cc2.chunk.css.map": "/andect/static/css/main.56957cc2.chunk.css.map",
+    "static/js/2.7bfde234.chunk.js.LICENSE.txt": "/andect/static/js/2.7bfde234.chunk.js.LICENSE.txt",
+    "static/media/ANDECT.002bc1ef.png": "/andect/static/media/ANDECT.002bc1ef.png",
+    "static/media/avatar.efadb13d.webp": "/andect/static/media/avatar.efadb13d.webp",
+    "static/media/clock.77658fb7.svg": "/andect/static/media/clock.77658fb7.svg",
+    "static/media/list.87575114.svg": "/andect/static/media/list.87575114.svg",
+    "static/media/question.f99dd5a7.svg": "/andect/static/media/question.f99dd5a7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cebcadf4.js",
+    "static/js/2.7bfde234.chunk.js",
+    "static/css/main.56957cc2.chunk.css",
+    "static/js/main.c86d0b27.chunk.js"
+  ]
+}
