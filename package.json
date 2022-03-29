@@ -24,7 +24,8 @@
     "start": "craco start",
     "start2": "react-scripts start",
     "start:proxy": "REACT_APP_PROXY=true craco start",
-    "build": "craco build",
+    "build": "react-scripts build",
+    "build2": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
