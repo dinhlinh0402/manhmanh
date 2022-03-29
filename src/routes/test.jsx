@@ -41,7 +41,7 @@ export default function Test() {
     const params = arr.join('');
 
     // redirect
-    navigate('/test/' + params);
+    navigate('test/' + params);
   };
 
   return (
